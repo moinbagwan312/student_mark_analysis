@@ -1,6 +1,6 @@
 import numpy as np
 
-# Student names
+
 students = np.array([
     "Rahul",
     "Priya",
@@ -9,7 +9,7 @@ students = np.array([
     "Karan"
 ])
 
-# Subject names
+
 subjects = np.array([
     "Python",
     "SQL",
@@ -17,7 +17,7 @@ subjects = np.array([
     "Statistics"
 ])
 
-# Student marks
+
 marks = np.array([
     [85, 78, 90, 88],
     [92, 89, 95, 91],
