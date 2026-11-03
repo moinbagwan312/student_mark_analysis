@@ -1,42 +1,42 @@
- \ Student Marks Analysis using NumPy
+ ◾ Student Marks Analysis using NumPy
 
  
 
- A beginner-friendly Python project that analyzes student marks with \*\*NumPy\*\*. It calculates totals, averages, subject-wise statistics, pass/fail status, and rankings, then prints a final performance report.
+ A beginner-friendly Python project that analyzes student marks with ◾*◾*NumPy◾*◾*. It calculates totals, averages, subject-wise statistics, pass/fail status, and rankings, then prints a final performance report.
 
  
 
- \ Features
+ ◾ Features
 
  
 
- \- Total and average marks for each student
+ ◾- Total and average marks for each student
 
- \- Subject-wise average, highest, and lowest marks
+ ◾- Subject-wise average, highest, and lowest marks
 
- \- Strongest and weakest subject
+ ◾- Strongest and weakest subject
 
- \- Topper and lowest performer
+ ◾- Topper and lowest performer
 
- \- Pass/Fail report (a student fails if any subject is below 40)
+ ◾- Pass/Fail report (a student fails if any subject is below 40)
 
- \- Student ranking by total marks
+ ◾- Student ranking by total marks
 
- \- Consolidated class performance report
-
- 
-
- \ Tech Stack
+ ◾- Consolidated class performance report
 
  
 
- \- Python 3.x
-
- \- NumPy
+ ◾ Tech Stack
 
  
 
- \ Project Structure
+ ◾- Python 3.x
+
+ ◾- NumPy
+
+ 
+
+ ◾ Project Structure
 
  
 
@@ -44,7 +44,7 @@
 
  student-marks-analysis/
 
- ├── student\_analysis.py    Main analysis script
+ ├── student◾_analysis.py    Main analysis script
 
  ├── requirements.txt       Dependencies
 
@@ -54,11 +54,11 @@
 
  
 
- \ Installation
+ ◾ Installation
 
  
 
- 1\. Clone the repository:
+ 1◾. Clone the repository:
 
  &x20;  ```bash
 
@@ -70,19 +70,19 @@
 
  
 
- 2\. (Optional) Create a virtual environment:
+ 2◾. (Optional) Create a virtual environment:
 
  &x20;  ```bash
 
  &x20;  python -m venv venv
 
- &x20;  source venv/bin/activate       Windows: venv\\Scripts\\activate
+ &x20;  source venv/bin/activate       Windows: venv◾◾Scripts◾◾activate
 
  &x20;  ```
 
  
 
- 3\. Install dependencies:
+ 3◾. Install dependencies:
 
  &x20;  ```bash
 
@@ -92,19 +92,19 @@
 
  
 
- \ Usage
+ ◾ Usage
 
  
 
  ```bash
 
- python student\_analysis.py
+ python student◾_analysis.py
 
  ```
 
  
 
- \ Dataset
+ ◾ Dataset
 
  
 
@@ -124,23 +124,23 @@
 
  
 
- \ Sample Output (Summary)
+ ◾ Sample Output (Summary)
 
  
 
- \*\*Class Summary\*\*
+ ◾*◾*Class Summary◾*◾*
 
- \- Total Students: 5
+ ◾- Total Students: 5
 
- \- Class Average: 69.5
+ ◾- Class Average: 69.5
 
- \- Passed: 4
+ ◾- Passed: 4
 
- \- Failed: 1
+ ◾- Failed: 1
 
  
 
- \*\*Ranking\*\*
+ ◾*◾*Ranking◾*◾*
 
  
 
@@ -160,7 +160,7 @@
 
  
 
- \*\*Subject Performance\*\*
+ ◾*◾*Subject Performance◾*◾*
 
  
 
@@ -178,17 +178,17 @@
 
  
 
- \- \*\*Strongest Subject:\*\* Mathematics
+ ◾- ◾*◾*Strongest Subject:◾*◾* Mathematics
 
- \- \*\*Weakest Subject:\*\* Python
+ ◾- ◾*◾*Weakest Subject:◾*◾* Python
 
- \- \*\*Topper:\*\* Priya
+ ◾- ◾*◾*Topper:◾*◾* Priya
 
- \- \*\*Lowest Performer:\*\* Karan
+ ◾- ◾*◾*Lowest Performer:◾*◾* Karan
 
  
 
- \ NumPy Concepts Used
+ ◾ NumPy Concepts Used
 
  
 
@@ -214,17 +214,17 @@
 
  
 
- \ Possible Improvements
+ ◾ Possible Improvements
 
  
 
- \- Load marks from a CSV file using pandas
+ ◾- Load marks from a CSV file using pandas
 
- \- Add grade calculation (A, B, C, ...)
+ ◾- Add grade calculation (A, B, C, ...)
 
- \- Visualize results with Matplotlib
+ ◾- Visualize results with Matplotlib
 
- \- Accept marks as user input
+ ◾- Accept marks as user input
 
  
 
