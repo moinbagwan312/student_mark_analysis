@@ -63,23 +63,23 @@
 
  2. (Optional) Create a virtual environment:
 
- &x20;  ```bash
+bash
 
- &x20;  python -m venv venv
+python -m venv venv
 
- &x20;  source venv/bin/activate       Windows: venv Scripts activate
+source venv/bin/activate       Windows: venv Scripts activate
 
- &x20;  ```
+
 
  
 
  3. Install dependencies:
 
- &x20;  ```bash
 
- &x20;  pip install -r requirements.txt
 
- &x20;  ```
+  pip install -r requirements.txt
+
+ 
 
  
 
@@ -87,11 +87,10 @@
 
  
 
- ```bash
 
  python student_analysis.py
 
- ```
+ 
 
  
 
